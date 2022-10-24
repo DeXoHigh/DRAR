@@ -22,6 +22,6 @@ server_scripts {
 shared_script 'config.lua'
 
 client_scripts {
-	'lib/Proxy.lua', 'lib/Tunnel.lua',
+	'@vrp/client/Proxy.lua', '@vrp/client/Tunnel.lua',
     "client/*.lua"
 }
