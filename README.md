@@ -17,7 +17,8 @@ Project is created with:
 ## Setup
 1. Descărcați ultima actualizare
 2. Puneți fișierul în folderul dvs. „resurse”.
-3. Start in server.cfg
+3. REDENUMITIL IN 'DRAR'
+4. Start in server.cfg
 
-! 4. Verificati tabelele din baza de date ( vrp_user_vehicles ) sa fie ca in server.cfg
-! 5. Daca aveti probleme DM ( DeXo#2557 )
+! 5. Verificati tabelele din baza de date ( vrp_user_vehicles ) sa fie ca in server.cfg
+! 6. Daca aveti probleme DM ( DeXo#2557 )
