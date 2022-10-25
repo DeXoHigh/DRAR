@@ -20,5 +20,5 @@ Project is created with:
 3. REDENUMITIL IN 'DRAR'
 4. Start in server.cfg
 
-! 5. Verificati tabelele din baza de date ( vrp_user_vehicles ) sa fie ca in server.cfg
+! 5. Verificati tabelele din baza de date `vrp_user_vehicles` sa fie ca in `server/main.lua` ( daca nu schimbati tabelele din main.lua ca cele din db )
 ! 6. Daca aveti probleme DM ( DeXo#2557 )
